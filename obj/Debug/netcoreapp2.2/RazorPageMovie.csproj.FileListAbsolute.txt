@@ -5,7 +5,6 @@ C:\Users\Dek\workspace\c32\RazorPageMovie\bin\Debug\netcoreapp2.2\RazorPageMovie
 C:\Users\Dek\workspace\c32\RazorPageMovie\bin\Debug\netcoreapp2.2\RazorPageMovie.pdb
 C:\Users\Dek\workspace\c32\RazorPageMovie\bin\Debug\netcoreapp2.2\RazorPageMovie.Views.dll
 C:\Users\Dek\workspace\c32\RazorPageMovie\bin\Debug\netcoreapp2.2\RazorPageMovie.Views.pdb
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.csprojAssemblyReference.cache
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.csproj.CoreCompileInputs.cache
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.RazorAssemblyInfo.cache
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.RazorAssemblyInfo.cs
@@ -16,6 +15,11 @@ C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.RazorCoreGenerate.cache
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
@@ -28,8 +32,3 @@ C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.dll
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.pdb
 C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\RazorPageMovie.csproj.CopyComplete
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
-C:\Users\Dek\workspace\c32\RazorPageMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
